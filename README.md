@@ -143,7 +143,7 @@ kubectl logs deployment/fibonacci-deployment
 
 ### 4 .Cleaning Up
 > [!WARNING]
-> This will uninstall helm.
+> This will uninstall helm release.
 
 ```sh
 helm uninstall fibonacci
