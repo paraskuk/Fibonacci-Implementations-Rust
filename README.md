@@ -1,4 +1,6 @@
 [![Rust](https://github.com/paraskuk/Fibonacci-Rust-Kubernetes-Deployment-Command-Line-POC-App/actions/workflows/rust.yml/badge.svg)](https://github.com/paraskuk/Fibonacci-Rust-Kubernetes-Deployment-Command-Line-POC-App/actions/workflows/rust.yml)
+![Rust_programming_language_black_logo svg](https://github.com/user-attachments/assets/ab07a1c3-fdf7-4a45-be0e-977184cb8914)
+
 # Rust App that calculates the Fibonacci sequence and deploys it to Kubernetes
 
 
